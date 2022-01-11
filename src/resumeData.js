@@ -21,7 +21,7 @@ let resumeData = {
   aboutme:
     "I graduated from Vishwakarma Institute of Information Technology with a B.Tech in Computer Engineering. I am a self taught Full Stack Web Developer, currently diving deeper into UI/UX. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
   //address: "India",
- //website: "https://www.linkedin.com/in/aachal-rathod-1002991a1/",
+  //website: "https://www.linkedin.com/in/aachal-rathod-1002991a1/",
   education: [
     {
       UniversityName: "Vishwakarma Institute of Information Technology",
@@ -77,16 +77,6 @@ let resumeData = {
       name: "project4",
       description: "mobileapp",
       imgurl: "images/portfolio/phone.jpg",
-    },
-  ],
-  testimonials: [
-    {
-      description: "This is a sample testimonial",
-      name: "Some technical guy",
-    },
-    {
-      description: "This is a sample testimonial",
-      name: "Some technical guy",
     },
   ],
 };
